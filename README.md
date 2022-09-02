@@ -2,13 +2,11 @@
 statisyics for a telegram group chat
 
 ## HOE TO RUN
- firs add src by running below code at main directory
+ first add src by running below code at main directory
  export PYTHONPATH=${PWD}
 
 then run:
-
-'''
- python src/chat_statistics/chat.py
  
-'''
+python src/chat_statistics/chat.py
+
 
