@@ -131,3 +131,6 @@ dmypy.json
 
 *.ipynb
 *.json
+*.TTF
+*.png
+*.ttf
