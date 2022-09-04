@@ -1,7 +1,7 @@
 # telegram-stat
 statisyics for a telegram group chat
 
-## HOE TO RUN
+## HOW TO RUN
  first add src by running below code at main directory
  export PYTHONPATH=${PWD}
 
